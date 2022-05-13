@@ -1,0 +1,30 @@
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+    height: -webkit-fill-available;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+    height: -webkit-fill-available;
+}
+
+#btn-sign-in {
+    width: inherit;
+    background: #3CC6EF;
+    box-shadow: 3.11286px 6.22572px 9.33858px rgb(11 160 170 / 25%);
+    border-radius: 62px;
+    margin-top: 67px;
+}
+
+.font-login-form {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}

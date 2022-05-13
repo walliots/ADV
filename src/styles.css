@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito&family=Roboto&display=swap');
+.form-signin {
+  width: 100%;
+  max-width: 393px;
+  float: right;
+  margin-top: 15rem;
+  margin-right: 41px;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-radius: 8.10868px;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+    margin-top: 47px;
+    border-radius: 8.10868px;
+}
+.login-body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #000E41;
+  height: 812px;
+}
+.container.left {
+  height: 700px;
+  margin-left: 32rem;
+  padding-top: 16rem;
+  float: left;
+  background-color: black;
+}
+.container.right{
+  height: 700px;
+  margin-left: 32rem;
+  padding-top: 16rem;
+  float: right;
+  background-color: blue;
+}
